@@ -75,11 +75,13 @@ Interest Rate and DTI Comparisons
 
 Included slicers for Month, Loan Status, and Grade for easy filtering.
 
+
 📗 Excel Dashboard (Bank loan analysis excel dashboard.xlsx)
 
 Created pivot-based dashboard with metrics and slicers.
 
 Lightweight version for summary reporting.
+
 
 🔹 Step 6: Insights & Reporting
 
@@ -94,6 +96,8 @@ Python (pandas, matplotlib, seaborn)	Data cleaning and exploratory analysis
 Power BI	Interactive dashboard creation
 Excel	Data summary and lightweight dashboard
 GitHub	Project version control and portfolio showcase
+
+
 📈 Key Insights
 
 📌 Good Loans: ~85% of total issued loans (Fully Paid or Current).
@@ -102,12 +106,15 @@ GitHub	Project version control and portfolio showcase
 📌 High-Volume States: California (CA), New York (NY), and Texas (TX).
 📌 DTI & Interest Rate: Major contributors to loan default risk.
 
+
 🗂️ Project Files
 File Name	Description
 bank_loan.sql	SQL scripts for KPI and data analysis
 Bank Loan Analysis.ipynb	Python notebook for cleaning and EDA
 bank loan dashboard.pbix	Power BI interactive dashboard
 Bank loan analysis excel dashboard.xlsx	Excel pivot dashboard for quick analysis
+
+
 🎯 Learning Outcomes
 
 Built a complete analytics solution from raw data to business insights.
